@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SAF Energiesysteme//Sommerfest 2026//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:saf-sommerfest-2026-07-18@solar-eins.de
+DTSTAMP:20260625T080000Z
+DTSTART;TZID=Europe/Berlin:20260718T100000
+DTEND;TZID=Europe/Berlin:20260718T160000
+SUMMARY:SAF Sommerfest
+DESCRIPTION:Energie erleben\, Zukunft entdecken. Sommerfest der SAF Energiesysteme Schwaben GmbH mit Vortraegen (12 und 14 Uhr)\, E-Auto Probefahrten\, Kinderprogramm sowie Speisen und Getraenken. Eintritt frei\, keine Anmeldung noetig.
+LOCATION:SAF Energiesysteme Schwaben GmbH\, Weberstraße 5\, 86836 Graben
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: SAF Sommerfest morgen
+END:VALARM
+END:VEVENT
+END:VCALENDAR
