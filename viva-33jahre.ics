@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VIVA Solar//33 Jahre Jubilaeumsfeier//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:viva-solar-33-jahre-2026@vivasolar.de
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20260822T100000
+DTEND;TZID=Europe/Berlin:20260822T160000
+SUMMARY:33 Jahre VIVA Solar - Jubilaeumsfeier
+DESCRIPTION:Feiern Sie mit uns 33 Jahre VIVA Solar Energietechnik GmbH.\n\nProgramm:\n- Fachvortraege zu Photovoltaik\, Waermepumpe & Energiemanagement\n- Fuehrungen ueber unser Firmengelaende\n- Infostaende der Fachpartner (Solarwatt\, Solax u.v.m.)\n- Grosse Tombola\, Hauptgewinn: Balkonkraftwerk\n- Essen & Trinken (Pizzaofen\, Eis\, Getraenke der Bierschmiede Bendorf)\n- Kinderanimation (Robotik & Loeten\, betreut vom Makerspace Mayen-Koblenz)\n\nWir freuen uns auf Sie!\n\nKontakt: 02622-89890\nAnfragen@vivasolar.de
+LOCATION:VIVA Solar Energietechnik GmbH\, Huettenstrasse 33\, 56170 Bendorf
+URL:https://www.vivasolar.de
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: 33 Jahre VIVA Solar Jubilaeumsfeier
+TRIGGER:-PT24H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
