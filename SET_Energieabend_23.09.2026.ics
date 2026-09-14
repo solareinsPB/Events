@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-set-20260923@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20260923T150000Z
+DTEND:20260923T170000Z
+SUMMARY:Energieabend: Wärmepumpe\, Photovoltaik und Speicher: drei Baustei
+ ne\, die sich gegenseitig finanzieren
+DESCRIPTION:Einzeln gerechnet wirkt jede der drei Komponenten wie eine gro
+ ße Investition. Zusammen ergibt sich ein anderes Bild. Wir rechnen an ein
+ em konkreten Beispiel durch\, wie sich Wärmepumpe\, Photovoltaik und Spei
+ cher gegenseitig tragen.\n\nDAS NEHMEN SIE MIT\n- Rechenbeispiel für ein 
+ Einfamilienhaus\, von der Investition bis zur Amortisation\n- Welche Eigen
+ stromquote realistisch erreichbar ist\n- Welche Förderungen 2026 greifen 
+ und worauf Sie dabei achten müssen\n\nABLAUF\nMittwoch\, 23.09.2026\, Beg
+ inn 17:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehmen wir uns 
+ Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nSchmidtlein Ener
+ gietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 27283 Verden\n\nTEILNAHME\n
+ Die Teilnahme ist kostenlos. Wir freuen uns über eine kurze Anmeldung\, d
+ amit wir besser planen können.\n\nIHR ANSPRECHPARTNER\nSchmidtlein Energi
+ etechnik GmbH\nNikolaus-Kopernikus-Str. 7\, 27283 Verden\nTelefon 04231 98
+ 33650\nschmidtleinweb.de
+LOCATION:Schmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei Schmidtlein Energietechnik GmbH\, 17:0
+ 0 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

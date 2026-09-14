@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-viva-20260915@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20260915T160000Z
+DTEND:20260915T180000Z
+SUMMARY:Energieabend: Strom-Blackout? Mein Haus läuft trotzdem.
+DESCRIPTION:Was passiert eigentlich im Haus\, wenn das Netz ausfällt? Viel
+ e glauben\, eine Photovoltaikanlage mit Speicher versorgt sie dann automat
+ isch weiter. Das stimmt nur unter bestimmten Voraussetzungen. An diesem Ab
+ end zeigen wir\, was Ihre Anlage im Ernstfall wirklich leisten kann.\n\nDA
+ S NEHMEN SIE MIT\n- Der Unterschied zwischen Notstrom\, Ersatzstrom und ec
+ htem Inselbetrieb\n- Welche Geräte im Haus weiterlaufen und welche nicht\
+ n- Was eine Nachrüstung an bestehenden Anlagen kostet\n\nABLAUF\nDienstag
+ \, 15.09.2026\, Beginn 18:00 Uhr. Der Vortrag dauert rund eine Stunde. Dan
+ ach nehmen wir uns Zeit für Ihre Fragen im persönlichen Gespräch.\n\nOR
+ T\nVIVA SOLAR Energietechnik GmbH\, Hüttenstraße 33\, 56170 Bendorf\n\nT
+ EILNAHME\nDie Teilnahme ist kostenlos. Wir freuen uns über eine kurze Anm
+ eldung\, damit wir besser planen können.\n\nIHR ANSPRECHPARTNER\nVIVA SOL
+ AR Energietechnik GmbH\nHüttenstraße 33\, 56170 Bendorf\nTelefon 02622 8
+ 9898-20\nvivasolar.de
+LOCATION:VIVA SOLAR Energietechnik GmbH\, Hüttenstraße 33\, 56170 Bendorf
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei VIVA SOLAR Energietechnik GmbH\, 18:00
+  Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

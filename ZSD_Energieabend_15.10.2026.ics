@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-zsd-20261015@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261015T170000Z
+DTEND:20261015T190000Z
+SUMMARY:Energieabend: Sonne ja\, Abzocke nein
+DESCRIPTION:Der Markt für Photovoltaik ist gewachsen\, und mit ihm die Zah
+ l unseriöser Anbieter. Wir zeigen Ihnen\, woran Sie ein gutes Angebot erk
+ ennen\, welche Maschen gerade kursieren und welche Fragen Sie jedem Anbiet
+ er stellen sollten.\n\nDAS NEHMEN SIE MIT\n- Typische Verkaufsmaschen und 
+ wie Sie sie früh erkennen\n- Woran Sie ein seriöses Angebot festmachen k
+ önnen\n- Die Fragen\, die Sie vor jeder Unterschrift stellen sollten\n\nA
+ BLAUF\nDonnerstag\, 15.10.2026\, Beginn 19:00 Uhr. Der Vortrag dauert rund
+  eine Stunde. Danach nehmen wir uns Zeit für Ihre Fragen im persönlichen
+  Gespräch.\n\nORT\nZSD Solar GmbH\, Schüttorf\n\nTEILNAHME\nDie Teilnahm
+ e ist kostenlos. Wir freuen uns über eine kurze Anmeldung\, damit wir bes
+ ser planen können.\n\nIHR ANSPRECHPARTNER\nZSD Solar GmbH\, Schüttorf\nT
+ elefon 05923 99991-11\nzsd.solar/events
+LOCATION:ZSD Solar GmbH\, Schüttorf
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei ZSD Solar GmbH\, 19:00 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

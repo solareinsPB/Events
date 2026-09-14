@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-saf-20261125@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261125T170000Z
+DTEND:20261125T190000Z
+SUMMARY:Energieabend: Heizung raus. Was rein? Der Förder-Fahrplan 2027
+DESCRIPTION:Die alte Heizung muss über kurz oder lang weichen. Nur was kom
+ mt dann hinein? Wir vergleichen die Systeme offen miteinander\, ohne Vorfe
+ stlegung\, und zeigen Ihnen\, welche Förderungen und Fristen im kommenden
+  Jahr gelten.\n\nDAS NEHMEN SIE MIT\n- Ein offener Vergleich von Wärmepum
+ pe\, Hybrid\, Pellet und Fernwärme\n- Der aktuelle Stand bei Förderung u
+ nd gesetzlichen Fristen\n- Was für Ihr Haus in Frage kommt und was eher n
+ icht\n\nABLAUF\nMittwoch\, 25.11.2026\, Beginn 18:00 Uhr. Der Vortrag daue
+ rt rund eine Stunde. Danach nehmen wir uns Zeit für Ihre Fragen im persö
+ nlichen Gespräch.\n\nORT\nSAF Energiesysteme Schwaben GmbH\, Weberstraße
+  5\, 86836 Graben\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir freuen un
+ s über eine kurze Anmeldung\, damit wir besser planen können.\n\nIHR ANS
+ PRECHPARTNER\nSAF Energiesysteme Schwaben GmbH\nWeberstraße 5\, 86836 Gra
+ ben\nTelefon 08232 5054190\nsaf-energiesysteme.de/events
+LOCATION:SAF Energiesysteme Schwaben GmbH\, Weberstraße 5\, 86836 Graben
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei SAF Energiesysteme Schwaben GmbH\, 18:
+ 00 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

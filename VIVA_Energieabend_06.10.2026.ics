@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-viva-20261006@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261006T160000Z
+DTEND:20261006T180000Z
+SUMMARY:Energieabend: Wärmepumpe\, Photovoltaik und Speicher: drei Baustei
+ ne\, die sich gegenseitig finanzieren
+DESCRIPTION:Einzeln gerechnet wirkt jede der drei Komponenten wie eine gro
+ ße Investition. Zusammen ergibt sich ein anderes Bild. Wir rechnen an ein
+ em konkreten Beispiel durch\, wie sich Wärmepumpe\, Photovoltaik und Spei
+ cher gegenseitig tragen.\n\nDAS NEHMEN SIE MIT\n- Rechenbeispiel für ein 
+ Einfamilienhaus\, von der Investition bis zur Amortisation\n- Welche Eigen
+ stromquote realistisch erreichbar ist\n- Welche Förderungen 2026 greifen 
+ und worauf Sie dabei achten müssen\n\nABLAUF\nDienstag\, 06.10.2026\, Beg
+ inn 18:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehmen wir uns 
+ Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nVIVA SOLAR Energ
+ ietechnik GmbH\, Hüttenstraße 33\, 56170 Bendorf\n\nTEILNAHME\nDie Teiln
+ ahme ist kostenlos. Wir freuen uns über eine kurze Anmeldung\, damit wir 
+ besser planen können.\n\nIHR ANSPRECHPARTNER\nVIVA SOLAR Energietechnik G
+ mbH\nHüttenstraße 33\, 56170 Bendorf\nTelefon 02622 89898-20\nvivasolar.
+ de
+LOCATION:VIVA SOLAR Energietechnik GmbH\, Hüttenstraße 33\, 56170 Bendorf
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei VIVA SOLAR Energietechnik GmbH\, 18:00
+  Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

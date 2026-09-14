@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-cet-20261126@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261126T160000Z
+DTEND:20261126T180000Z
+SUMMARY:Energieabend: Wärmepumpe\, Photovoltaik und Speicher: drei Baustei
+ ne\, die sich gegenseitig finanzieren
+DESCRIPTION:Einzeln gerechnet wirkt jede der drei Komponenten wie eine gro
+ ße Investition. Zusammen ergibt sich ein anderes Bild. Wir rechnen an ein
+ em konkreten Beispiel durch\, wie sich Wärmepumpe\, Photovoltaik und Spei
+ cher gegenseitig tragen.\n\nDAS NEHMEN SIE MIT\n- Rechenbeispiel für ein 
+ Einfamilienhaus\, von der Investition bis zur Amortisation\n- Welche Eigen
+ stromquote realistisch erreichbar ist\n- Welche Förderungen 2026 greifen 
+ und worauf Sie dabei achten müssen\n\nABLAUF\nDonnerstag\, 26.11.2026\, B
+ eginn 17:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehmen wir un
+ s Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nCET Technology
+  GmbH\, Lonnerstadt\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir freuen 
+ uns über eine kurze Anmeldung\, damit wir besser planen können.\n\nIHR A
+ NSPRECHPARTNER\nCET Technology GmbH\, Lonnerstadt\ncet-technology.de
+LOCATION:CET Technology GmbH\, Lonnerstadt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei CET Technology GmbH\, 17:00 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

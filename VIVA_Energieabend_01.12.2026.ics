@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-viva-20261201@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Energieabend: Heizung raus. Was rein? Der Förder-Fahrplan 2027
+DESCRIPTION:Die alte Heizung muss über kurz oder lang weichen. Nur was kom
+ mt dann hinein? Wir vergleichen die Systeme offen miteinander\, ohne Vorfe
+ stlegung\, und zeigen Ihnen\, welche Förderungen und Fristen im kommenden
+  Jahr gelten.\n\nDAS NEHMEN SIE MIT\n- Ein offener Vergleich von Wärmepum
+ pe\, Hybrid\, Pellet und Fernwärme\n- Der aktuelle Stand bei Förderung u
+ nd gesetzlichen Fristen\n- Was für Ihr Haus in Frage kommt und was eher n
+ icht\n\nABLAUF\nDienstag\, 01.12.2026\, Beginn 18:00 Uhr. Der Vortrag daue
+ rt rund eine Stunde. Danach nehmen wir uns Zeit für Ihre Fragen im persö
+ nlichen Gespräch.\n\nORT\nVIVA SOLAR Energietechnik GmbH\, Hüttenstraße
+  33\, 56170 Bendorf\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir freuen 
+ uns über eine kurze Anmeldung\, damit wir besser planen können.\n\nIHR A
+ NSPRECHPARTNER\nVIVA SOLAR Energietechnik GmbH\nHüttenstraße 33\, 56170 
+ Bendorf\nTelefon 02622 89898-20\nvivasolar.de
+LOCATION:VIVA SOLAR Energietechnik GmbH\, Hüttenstraße 33\, 56170 Bendorf
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei VIVA SOLAR Energietechnik GmbH\, 18:00
+  Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

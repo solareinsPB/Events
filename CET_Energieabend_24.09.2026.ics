@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-cet-20260924@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20260924T150000Z
+DTEND:20260924T170000Z
+SUMMARY:Energieabend: Was die Sonne 2027 noch wert ist
+DESCRIPTION:Die Vergütung für eingespeisten Solarstrom soll sich ändern.
+  Was das für neue Anlagen bedeutet\, warum der eigene Verbrauch dadurch w
+ ichtiger wird und welche Fristen jetzt zählen\, erklären wir an diesem A
+ bend in Ruhe und ohne Fachchinesisch.\n\nDAS NEHMEN SIE MIT\n- Was sich an
+  der Einspeisevergütung ändern soll und ab wann\n- Warum Eigenverbrauch 
+ und Speicher dadurch an Bedeutung gewinnen\n- Welche Termine Sie im Blick 
+ behalten sollten\, wenn Sie noch planen\n\nABLAUF\nDonnerstag\, 24.09.2026
+ \, Beginn 17:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehmen wi
+ r uns Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nCET Techno
+ logy GmbH\, Lonnerstadt\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir fre
+ uen uns über eine kurze Anmeldung\, damit wir besser planen können.\n\nI
+ HR ANSPRECHPARTNER\nCET Technology GmbH\, Lonnerstadt\ncet-technology.de
+LOCATION:CET Technology GmbH\, Lonnerstadt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei CET Technology GmbH\, 17:00 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

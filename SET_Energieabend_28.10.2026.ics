@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-set-20261028@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261028T160000Z
+DTEND:20261028T180000Z
+SUMMARY:Energieabend: Strom-Blackout? Mein Haus läuft trotzdem.
+DESCRIPTION:Was passiert eigentlich im Haus\, wenn das Netz ausfällt? Viel
+ e glauben\, eine Photovoltaikanlage mit Speicher versorgt sie dann automat
+ isch weiter. Das stimmt nur unter bestimmten Voraussetzungen. An diesem Ab
+ end zeigen wir\, was Ihre Anlage im Ernstfall wirklich leisten kann.\n\nDA
+ S NEHMEN SIE MIT\n- Der Unterschied zwischen Notstrom\, Ersatzstrom und ec
+ htem Inselbetrieb\n- Welche Geräte im Haus weiterlaufen und welche nicht\
+ n- Was eine Nachrüstung an bestehenden Anlagen kostet\n\nABLAUF\nMittwoch
+ \, 28.10.2026\, Beginn 17:00 Uhr. Der Vortrag dauert rund eine Stunde. Dan
+ ach nehmen wir uns Zeit für Ihre Fragen im persönlichen Gespräch.\n\nOR
+ T\nSchmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 27283 Ve
+ rden\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir freuen uns über eine 
+ kurze Anmeldung\, damit wir besser planen können.\n\nIHR ANSPRECHPARTNER\
+ nSchmidtlein Energietechnik GmbH\nNikolaus-Kopernikus-Str. 7\, 27283 Verde
+ n\nTelefon 04231 9833650\nschmidtleinweb.de
+LOCATION:Schmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei Schmidtlein Energietechnik GmbH\, 17:0
+ 0 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

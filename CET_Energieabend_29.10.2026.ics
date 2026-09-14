@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-cet-20261029@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20261029T160000Z
+DTEND:20261029T180000Z
+SUMMARY:Energieabend: Gewerbespeicher und Wohnungsgemeinschaften
+DESCRIPTION:Für Betriebe sind Lastspitzen ein echter Kostentreiber. Ein Sp
+ eicher kann sie kappen und die Stromrechnung spürbar senken. Für Wohnung
+ sgemeinschaften zeigen wir\, wie sich Solarstrom gemeinsam nutzen und abre
+ chnen lässt.\n\nDAS NEHMEN SIE MIT\n- Wie ein Gewerbespeicher Lastspitzen
+  kappt und was das konkret spart\n- Welche Betriebsgrößen sich rechnen u
+ nd ab wann\n- Modelle für Wohnungsgemeinschaften und Eigentümergemeinsch
+ aften\n\nABLAUF\nDonnerstag\, 29.10.2026\, Beginn 17:00 Uhr. Der Vortrag d
+ auert rund eine Stunde. Danach nehmen wir uns Zeit für Ihre Fragen im per
+ sönlichen Gespräch.\n\nORT\nCET Technology GmbH\, Lonnerstadt\n\nTEILNAH
+ ME\nDie Teilnahme ist kostenlos. Wir freuen uns über eine kurze Anmeldung
+ \, damit wir besser planen können.\n\nIHR ANSPRECHPARTNER\nCET Technology
+  GmbH\, Lonnerstadt\ncet-technology.de
+LOCATION:CET Technology GmbH\, Lonnerstadt
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei CET Technology GmbH\, 17:00 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

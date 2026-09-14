@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ea26-saf-20260930@solar-eins.de
+DTSTAMP:20260911T140000Z
+DTSTART:20260930T160000Z
+DTEND:20260930T180000Z
+SUMMARY:Energieabend: Wärmepumpe\, Photovoltaik und Speicher: drei Baustei
+ ne\, die sich gegenseitig finanzieren
+DESCRIPTION:Einzeln gerechnet wirkt jede der drei Komponenten wie eine gro
+ ße Investition. Zusammen ergibt sich ein anderes Bild. Wir rechnen an ein
+ em konkreten Beispiel durch\, wie sich Wärmepumpe\, Photovoltaik und Spei
+ cher gegenseitig tragen.\n\nDAS NEHMEN SIE MIT\n- Rechenbeispiel für ein 
+ Einfamilienhaus\, von der Investition bis zur Amortisation\n- Welche Eigen
+ stromquote realistisch erreichbar ist\n- Welche Förderungen 2026 greifen 
+ und worauf Sie dabei achten müssen\n\nABLAUF\nMittwoch\, 30.09.2026\, Beg
+ inn 18:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehmen wir uns 
+ Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nSAF Energiesyste
+ me Schwaben GmbH\, Weberstraße 5\, 86836 Graben\n\nTEILNAHME\nDie Teilnah
+ me ist kostenlos. Wir freuen uns über eine kurze Anmeldung\, damit wir be
+ sser planen können.\n\nIHR ANSPRECHPARTNER\nSAF Energiesysteme Schwaben G
+ mbH\nWeberstraße 5\, 86836 Graben\nTelefon 08232 5054190\nsaf-energiesyst
+ eme.de/events
+LOCATION:SAF Energiesysteme Schwaben GmbH\, Weberstraße 5\, 86836 Graben
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei SAF Energiesysteme Schwaben GmbH\, 18:
+ 00 Uhr
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
