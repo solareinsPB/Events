@@ -4,29 +4,35 @@ PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:ea26-zsd-20261119@solar-eins.de
-DTSTAMP:20260911T140000Z
+DTSTAMP:20260921T090000Z
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
-SUMMARY:Energieabend: Was die Sonne 2027 noch wert ist
-DESCRIPTION:Die Vergütung für eingespeisten Solarstrom soll sich ändern.
-  Was das für neue Anlagen bedeutet\, warum der eigene Verbrauch dadurch w
- ichtiger wird und welche Fristen jetzt zählen\, erklären wir an diesem A
- bend in Ruhe und ohne Fachchinesisch.\n\nDAS NEHMEN SIE MIT\n- Was sich an
-  der Einspeisevergütung ändern soll und ab wann\n- Warum Eigenverbrauch 
- und Speicher dadurch an Bedeutung gewinnen\n- Welche Termine Sie im Blick 
- behalten sollten\, wenn Sie noch planen\n\nABLAUF\nDonnerstag\, 19.11.2026
- \, Beginn 19:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehmen wi
- r uns Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nZSD Solar 
- GmbH\, Schüttorf\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir freuen un
- s über eine kurze Anmeldung\, damit wir besser planen können.\n\nIHR ANS
- PRECHPARTNER\nZSD Solar GmbH\, Schüttorf\nTelefon 05923 99991-11\nzsd.sol
- ar/events
-LOCATION:ZSD Solar GmbH\, Schüttorf
+SUMMARY:Energieabend: Was die Sonne 2027 noch wert ist.
+DESCRIPTION:Nach dem Kabinettsentwurf zur Novelle des Erneuerbare-Energien-
+ Gesetzes soll die feste Einspeisevergütung für neue Photovoltaikanlagen 
+ zum 1. Januar 2027 entfallen. Verabschiedet ist das noch nicht\, Bundestag
+  und Bundesrat beraten. An diesem Abend gehen wir den Entwurf Punkt für P
+ unkt durch und rechnen vor\, was er für eine Anlage in Ihrer Größenordn
+ ung bedeutet.\n\nDieser Abend wiederholt den Termin vom 15. Oktober. Die I
+ nhalte sind identisch\, die Zahlen bringen wir auf den dann aktuellen Stan
+ d.\n\nDAS NEHMEN SIE MIT\n- Was im Entwurf steht und was davon bereits sic
+ her ist\n- Was die Änderungen für Ihre bestehende Anlage bedeuten\n- War
+ um der 31. Dezember 2026 in dieser Rechnung ein Datum ist\, das man kennen
+  sollte\n\nABLAUF\nDonnerstag\, 19.11.2026\, Beginn 19:00 Uhr. Der Vortrag
+  dauert rund eine Stunde. Danach nehmen wir uns Zeit für Ihre Fragen im p
+ ersönlichen Gespräch.\n\nORT\nZSD Solar GmbH\, Veddelers Weg 10\, 48465 
+ Schüttorf\n\nTEILNAHME\nDie Teilnahme ist kostenlos. Wir freuen uns über
+  eine kurze Anmeldung unter zsd.solar/events\, damit wir besser planen kö
+ nnen.\n\nIHR ANSPRECHPARTNER\nZSD Solar GmbH\nTelefon 05923 99991-11\ninfo
+ @zsd.solar
+LOCATION:ZSD Solar GmbH\, Veddelers Weg 10\, 48465 Schüttorf
+URL:https://zsd.solar/events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Energieabend bei ZSD Solar GmbH\, 19:00 Uhr
+DESCRIPTION:Morgen: Energieabend bei ZSD Solar\, 19:00 Uhr\, ZSD Solar GmbH
+ \, Veddelers Weg 10\, 48465 Schüttorf
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT

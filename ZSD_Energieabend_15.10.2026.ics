@@ -4,28 +4,34 @@ PRODID:-//Solar-Eins//Energieabende Herbst 2026//DE
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:ea26-zsd-20261015@solar-eins.de
-DTSTAMP:20260911T140000Z
+DTSTAMP:20260921T090000Z
 DTSTART:20261015T170000Z
 DTEND:20261015T190000Z
-SUMMARY:Energieabend: Sonne ja\, Abzocke nein
-DESCRIPTION:Der Markt für Photovoltaik ist gewachsen\, und mit ihm die Zah
- l unseriöser Anbieter. Wir zeigen Ihnen\, woran Sie ein gutes Angebot erk
- ennen\, welche Maschen gerade kursieren und welche Fragen Sie jedem Anbiet
- er stellen sollten.\n\nDAS NEHMEN SIE MIT\n- Typische Verkaufsmaschen und 
- wie Sie sie früh erkennen\n- Woran Sie ein seriöses Angebot festmachen k
- önnen\n- Die Fragen\, die Sie vor jeder Unterschrift stellen sollten\n\nA
- BLAUF\nDonnerstag\, 15.10.2026\, Beginn 19:00 Uhr. Der Vortrag dauert rund
-  eine Stunde. Danach nehmen wir uns Zeit für Ihre Fragen im persönlichen
-  Gespräch.\n\nORT\nZSD Solar GmbH\, Schüttorf\n\nTEILNAHME\nDie Teilnahm
- e ist kostenlos. Wir freuen uns über eine kurze Anmeldung\, damit wir bes
- ser planen können.\n\nIHR ANSPRECHPARTNER\nZSD Solar GmbH\, Schüttorf\nT
- elefon 05923 99991-11\nzsd.solar/events
-LOCATION:ZSD Solar GmbH\, Schüttorf
+SUMMARY:Energieabend: Was die Sonne 2027 noch wert ist.
+DESCRIPTION:Nach dem Kabinettsentwurf zur Novelle des Erneuerbare-Energien-
+ Gesetzes soll die feste Einspeisevergütung für neue Photovoltaikanlagen 
+ zum 1. Januar 2027 entfallen. Verabschiedet ist das noch nicht\, Bundestag
+  und Bundesrat beraten. An diesem Abend gehen wir den Entwurf Punkt für P
+ unkt durch und rechnen vor\, was er für eine Anlage in Ihrer Größenordn
+ ung bedeutet.\n\nDieser Abend läuft am 19. November noch einmal. Sie brau
+ chen also nur einen der beiden Termine.\n\nDAS NEHMEN SIE MIT\n- Was im En
+ twurf steht und was davon bereits sicher ist\n- Was die Änderungen für I
+ hre bestehende Anlage bedeuten\n- Warum der 31. Dezember 2026 in dieser Re
+ chnung ein Datum ist\, das man kennen sollte\n\nABLAUF\nDonnerstag\, 15.10
+ .2026\, Beginn 19:00 Uhr. Der Vortrag dauert rund eine Stunde. Danach nehm
+ en wir uns Zeit für Ihre Fragen im persönlichen Gespräch.\n\nORT\nZSD S
+ olar GmbH\, Veddelers Weg 10\, 48465 Schüttorf\n\nTEILNAHME\nDie Teilnahm
+ e ist kostenlos. Wir freuen uns über eine kurze Anmeldung unter zsd.solar
+ /events\, damit wir besser planen können.\n\nIHR ANSPRECHPARTNER\nZSD Sol
+ ar GmbH\nTelefon 05923 99991-11\ninfo@zsd.solar
+LOCATION:ZSD Solar GmbH\, Veddelers Weg 10\, 48465 Schüttorf
+URL:https://zsd.solar/events
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Energieabend bei ZSD Solar GmbH\, 19:00 Uhr
+DESCRIPTION:Morgen: Energieabend bei ZSD Solar\, 19:00 Uhr\, ZSD Solar GmbH
+ \, Veddelers Weg 10\, 48465 Schüttorf
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
