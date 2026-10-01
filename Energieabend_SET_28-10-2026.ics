@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schmidtlein Energietechnik GmbH//Energieabende//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:set-energieabend-20261028@schmidtlein-energietechnik.de
+DTSTAMP:20261001T120000Z
+DTSTART:20261028T160000Z
+DTEND:20261028T180000Z
+SUMMARY:Energieabend: Wärmepumpe\, PV und Speicher
+LOCATION:Schmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden
+DESCRIPTION:Wärmepumpe\, PV und Speicher: Wie sich die drei gegenseitig fi
+ nanzieren.\n\nDie drei Technologien ergeben zusammen mehr als einzeln. Der
+  Speicher macht den Solarstrom abends nutzbar\, die Wärmepumpe verbraucht
+  ihn im Winter\, und was Sie selbst verbrauchen\, müssen Sie nicht einkau
+ fen. An diesem Abend rechnen wir Ihnen das an einem konkreten Beispiel vor
+ .\n\nEin Punkt macht das Thema gerade dringlich: Die feste Einspeisevergü
+ tung über zwanzig Jahre soll für neue Anlagen ab 2027 entfallen. Damit v
+ erschiebt sich die Rechnung weg vom Einspeisen hin zum Eigenverbrauch.\n\n
+ Der Eintritt ist frei. Bitte melden Sie sich vorher an\, die Plätze sind 
+ begrenzt.\n\nSchmidtlein Energietechnik GmbH\nNikolaus-Kopernikus-Str. 7\,
+  27283 Verden\nTelefon 04231 9833652\ninfo@schmidtleinweb.de\nschmidtlein-
+ energietechnik.de
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend: Wärmepumpe\, PV und Speicher
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

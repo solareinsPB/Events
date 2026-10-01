@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schmidtlein Energietechnik GmbH//Energieabende//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:set-energieabend-20270128@schmidtlein-energietechnik.de
+DTSTAMP:20261001T120000Z
+DTSTART:20270128T160000Z
+DTEND:20270128T180000Z
+SUMMARY:Energieabend: Heizung raus. Was rein?
+LOCATION:Schmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden
+DESCRIPTION:Heizung raus. Was rein? Förder-Fahrplan 2027.\n\nWenn die alte
+  Heizung an ihr Ende kommt\, stellt sich die Frage nach dem Ersatz meist u
+ nter Zeitdruck. Wir gehen mit Ihnen in Ruhe durch\, welche Fristen gelten\
+ , welche Fördermittel es 2027 gibt und wie Sie sie beantragen. Dazu ein e
+ hrlicher Vergleich von Wärmepumpe\, Hybrid\, Pellet und Fernwärme\, mit 
+ Kosten über die gesamte Laufzeit statt nur dem Anschaffungspreis.\n\nDer 
+ Eintritt ist frei. Bitte melden Sie sich vorher an\, die Plätze sind begr
+ enzt.\n\nSchmidtlein Energietechnik GmbH\nNikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden\nTelefon 04231 9833652\ninfo@schmidtleinweb.de\nschmidtlein-ener
+ gietechnik.de
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend: Heizung raus. Was rein?
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

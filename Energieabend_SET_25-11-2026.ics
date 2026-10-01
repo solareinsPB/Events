@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schmidtlein Energietechnik GmbH//Energieabende//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:set-energieabend-20261125@schmidtlein-energietechnik.de
+DTSTAMP:20261001T120000Z
+DTSTART:20261125T160000Z
+DTEND:20261125T180000Z
+SUMMARY:Energieabend: Strom-Blackout? Mein Haus läuft trotzdem
+LOCATION:Schmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden
+DESCRIPTION:Strom-Blackout? Mein Haus läuft trotzdem.\n\nViele gehen davon
+  aus\, dass eine Photovoltaikanlage mit Speicher sie bei einem Netzausfall
+  automatisch weiter versorgt. Das trifft nur unter bestimmten Voraussetzun
+ gen zu. Wir zeigen Ihnen\, was Notstrom\, Ersatzstrom und Inselbetrieb unt
+ erscheidet\, was Ihre Anlage im Ernstfall wirklich leistet und was es kost
+ et\, sie dafür nachzurüsten.\n\nDer Eintritt ist frei. Bitte melden Sie 
+ sich vorher an\, die Plätze sind begrenzt.\n\nSchmidtlein Energietechnik 
+ GmbH\nNikolaus-Kopernikus-Str. 7\, 27283 Verden\nTelefon 04231 9833652\nin
+ fo@schmidtleinweb.de\nschmidtlein-energietechnik.de
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend: Strom-Blackout? Mein Haus läuft trotzdem
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
