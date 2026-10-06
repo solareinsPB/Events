@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//solareins//Energieabende//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:set-energieabend-2027-01-28@schmidtlein-energietechnik.de
+DTSTAMP:20261006T154144Z
+DTSTART:20270128T160000Z
+DTEND:20270128T173000Z
+SUMMARY:Energieabend: Heizung raus. Was rein?
+LOCATION:Schmidtlein Energietechnik GmbH\, Nikolaus-Kopernikus-Str. 7\, 272
+ 83 Verden
+DESCRIPTION:Förder-Fahrplan 2027 mit Fristen\, KfW und Systemvergleich. Ab
+ lauf: 17:00 Uhr Ankommen\, 17:10 Uhr Begrüßung\, 17:15 Uhr Fachvortrag\,
+  ab 18:00 Uhr Zeit für Ihre Fragen. Eintritt frei\, bitte vorher anmelden
+ .
+URL:https://www.schmidtlein-energietechnik.de/events
+SEQUENCE:1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Morgen 17:00 Uhr\, Energieabend bei Schmidtlein Energietechnik:
+  Heizung raus. Was rein? Nikolaus-Kopernikus-Str. 7\, 27283 Verden. Eintri
+ tt frei.
+END:VALARM
+END:VEVENT
+END:VCALENDAR
