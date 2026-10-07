@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//solareins//Energieabende//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:rmw-energieabend-20270120@rmw-energy.de
+DTSTAMP:20261007T090000Z
+DTSTART:20270120T170000Z
+DTEND:20270120T190000Z
+SUMMARY:Energieabend: Heizung raus. Was rein?
+DESCRIPTION:Foerder-Fahrplan 2027 mit Fristen\, KfW und Systemvergleich. Be
+ ginn 18:00 Uhr\, Fachvortrag ab 18:15 Uhr\, ab 19:00 Uhr Zeit fuer Ihre Fr
+ agen. Eintritt frei\, die Plaetze sind begrenzt. Anmeldung unter https://r
+ mw-energy.de/events
+LOCATION:RMW Energy GmbH\, Verkehrshof 9\, 14478 Potsdam
+URL:https://rmw-energy.de/events
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Morgen: Energieabend: Heizung raus. Was rein?
+END:VALARM
+END:VEVENT
+END:VCALENDAR

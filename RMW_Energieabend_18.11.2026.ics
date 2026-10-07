@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//solareins//Energieabende//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:rmw-energieabend-20261118@rmw-energy.de
+DTSTAMP:20261007T090000Z
+DTSTART:20261118T170000Z
+DTEND:20261118T190000Z
+SUMMARY:Energieabend: Was die Sonne 2027 noch wert ist.
+DESCRIPTION:Einspeisung\, Eigenverbrauch\, und was die Reform fuer Ihre Anl
+ age bedeutet. Beginn 18:00 Uhr\, Fachvortrag ab 18:15 Uhr\, ab 19:00 Uhr Z
+ eit fuer Ihre Fragen. Eintritt frei\, die Plaetze sind begrenzt. Anmeldung
+  unter https://rmw-energy.de/events
+LOCATION:RMW Energy GmbH\, Verkehrshof 9\, 14478 Potsdam
+URL:https://rmw-energy.de/events
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Morgen: Energieabend: Was die Sonne 2027 noch wert ist.
+END:VALARM
+END:VEVENT
+END:VCALENDAR
