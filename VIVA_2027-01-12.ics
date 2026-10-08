@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Solar-Eins//Energieabende VIVA SOLAR 2026-27//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:energieabend-2027-01-12@vivasolar.de
+DTSTAMP:20261008T120000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;TZID=Europe/Berlin:20270112T180000
+DTEND;TZID=Europe/Berlin:20270112T200000
+SUMMARY:Energieabend: Wärmepumpe\, PV und Speicher: Wie sich die drei gege
+ nseitig finanzieren.
+DESCRIPTION:Wärmepumpe\, Photovoltaik und Speicher kombiniert: Warum sich 
+ die Kombination schneller rechnet als jede Einzelmaßnahme. Mit Rechenbeis
+ piel zur Eigenstromquote und zum Förderstand.\n\nAblauf:\n18:00 Uhr Willk
+ ommen und Begrüßung\n18:15 Uhr Fachvortrag\nab 19:00 Uhr Zeit für Ihre 
+ Fragen\n\nEintritt frei. Bitte vorher anmelden unter info@vivasolar.de.
+LOCATION:VIVA SOLAR Energietechnik GmbH\, Hüttenstraße 33\, 56170 Bendorf
+URL:https://www.vivasolar.de/
+ORGANIZER;CN=VIVA SOLAR Energietechnik GmbH:mailto:info@vivasolar.de
+CATEGORIES:Energieabend\,Infoveranstaltung
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Energieabend bei VIVA SOLAR
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
