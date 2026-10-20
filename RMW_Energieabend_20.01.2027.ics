@@ -4,23 +4,27 @@ PRODID:-//solareins//Energieabende//DE
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:rmw-energieabend-20270120@rmw-energy.de
-DTSTAMP:20261007T090000Z
+DTSTAMP:20261020T123519Z
 DTSTART:20270120T170000Z
 DTEND:20270120T190000Z
 SUMMARY:Energieabend: Heizung raus. Was rein?
-DESCRIPTION:Foerder-Fahrplan 2027 mit Fristen\, KfW und Systemvergleich. Be
- ginn 18:00 Uhr\, Fachvortrag ab 18:15 Uhr\, ab 19:00 Uhr Zeit fuer Ihre Fr
- agen. Eintritt frei\, die Plaetze sind begrenzt. Anmeldung unter https://r
- mw-energy.de/events
-LOCATION:RMW Energy GmbH\, Verkehrshof 9\, 14478 Potsdam
-URL:https://rmw-energy.de/events
+DESCRIPTION:Energieabend bei RMW Energy\, online.\n\n18:00 Uhr Start und Be
+ gruessung\n18:15 Uhr Fachvortrag\nab 19:00 Uhr Zeit fuer Ihre Fragen\n\nWi
+ r vergleichen Waermepumpe\, Hybrid\, Pellet und Fernwaerme\, zeigen den Fo
+ erder-Fahrplan 2027 mit allen Fristen und rechnen durch\, was der Umstieg 
+ im Jahr wirklich kostet.\n\nDie Teilnahme ist kostenlos. Den Zugangslink b
+ ekommen Sie nach der Anmeldung per Mail.\nAnmeldung: https://events.teams.
+ microsoft.com/event/a8b93763-5488-42a4-b249-f1029900ea0b@08e20cda-481d-499
+ 3-a6d2-f69416f62093
+LOCATION:Online-Webinar
+URL:https://events.teams.microsoft.com/event/a8b93763-5488-42a4-b249-f10299
+ 00ea0b@08e20cda-481d-4993-a6d2-f69416f62093
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SEQUENCE:0
 BEGIN:VALARM
-ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Morgen: Energieabend: Heizung raus. Was rein?
+ACTION:DISPLAY
+DESCRIPTION:Energieabend morgen um 18:00 Uhr\, online bei RMW Energy
 END:VALARM
 END:VEVENT
 END:VCALENDAR
